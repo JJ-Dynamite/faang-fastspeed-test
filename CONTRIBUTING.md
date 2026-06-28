@@ -1,4 +1,4 @@
-# Contributing to fastspeed-test
+# Contributing to faang-fastspeed-test
 
 Thank you for your interest in contributing!
 
