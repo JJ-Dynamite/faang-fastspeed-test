@@ -1,6 +1,6 @@
 # Check your internet speed
 
-[![CI](https://github.com/JJ-Dynamite/faang-fastspeed-test/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-fastspeed-test/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/fastspeedtest/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/fastspeedtest/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Check your internet speed - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-fastspeed-test.git
+git clone https://github.com/JJ-Dynamite/fastspeedtest.git
 cd fastspeed-test
 
 # Install backend dependencies
